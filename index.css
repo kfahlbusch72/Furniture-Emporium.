@@ -1,0 +1,15 @@
+h1 {
+  font-style: italic;
+  background-color: darkkhaki;
+  margin-right: 700pt;
+}
+
+article {
+  margin-right: 500pt;
+  margin-block-start: 25pt;
+  border: 20px solid rgb(221, 158, 9);
+  background-color: bisque;
+}
+button {
+  background-color: greenyellow;
+}
